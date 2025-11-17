@@ -46,7 +46,7 @@ author:
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=alessio+prunotto"
   researchgate     : # URL
-  scopus           : # URL
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=55942852900"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
