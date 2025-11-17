@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computational Biology, École Polytechnique Fédérale de Lausanne (EPFL), 2020
+* M.Sc. in Biomedical Engineering, Polytechnic University of Turin, 2012
+* B.Sc. in Biomedical Engineering, Polytechnic University of Turin, 2010
 
 Work experience
 ======
