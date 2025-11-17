@@ -23,7 +23,7 @@ repository               : "AlessioPrunotto/AlessioPrunotto.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile-photo.jpeg"
+  avatar           : "profile-photo.png"
   name             : "Alessio Prunotto"
   pronouns         : "he/him"  
   bio              : "I'm a computational chemist and drug design enthusiast. I develop predictive models to support drug discovery."
