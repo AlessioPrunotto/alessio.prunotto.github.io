@@ -1,61 +1,61 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Alessio Prunotto",
+    "email": "alessio.prunotto@gmail.com",
     "phone": "",
     "website": "https://academicpages.github.io",
     "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Zurich",
+      "countryCode": "CH",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=YzUZGdgAAAAJ&hl"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0000-0002-6425-964X"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "AlessioPrunotto",
+        "url": "https://github.com/AlessioPrunotto"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "École Polytechnique Fédérale de Lausanne (EPFL)",
+      "area": "Ph.D in Computational Biology",
+      "studyType": "Ph.D",
+      "startDate": "2015",
+      "endDate": "2020",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
+      "institution": "Polytechnic University of Turin",
+      "area": "M.Sc. in Biomedical Engineering",
+      "studyType": "M.Sc.",
+      "startDate": "2010",
       "endDate": "2012",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "University of Turin",
+      "area": "B.Sc. in Biomedical Engineering",
+      "studyType": "B.Sc.",
+      "startDate": "2007",
+      "endDate": "2010",
       "gpa": null,
       "courses": []
     }
