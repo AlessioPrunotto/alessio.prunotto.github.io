@@ -11,21 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computational Biology, École Polytechnique Fédérale de Lausanne (EPFL), 2020
+* Ph.D in Computational Biology / Computational Chemistry, École Polytechnique Fédérale de Lausanne (EPFL), 2020
 * M.Sc. in Biomedical Engineering, Polytechnic University of Turin, 2012
 * B.Sc. in Biomedical Engineering, Polytechnic University of Turin, 2010
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 02-2022 / 07-2025: Drug Hunter / Computational Chemist at [Aqemia](https://www.aqemia.com/) (Paris, France)
+  * Aqemia is [...]
+  * My duties included [...]
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 11-2020 / 01-2022: Postdoctoral researcher at University of Lausanne (Switzerland)
+  * Computer-aided Molecular Engineering group
+  * My duties included [...]
+  * Supervisor: Professor Vincent Zoete
 
 * Summer 2015: Research Assistant
   * GitHub University
