@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2017-global-issues-health
 venue: "EPFL, School of Life Sciences"
-date: 2017
+date: 2017-01-01
 location: "Lausanne, Switzerland"
 ---
 
